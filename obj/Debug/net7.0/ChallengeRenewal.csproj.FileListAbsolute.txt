@@ -1,0 +1,14 @@
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.AssemblyInfoInputs.cache
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.AssemblyInfo.cs
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\bin\Debug\net7.0\ChallengeRenewal.exe
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\bin\Debug\net7.0\ChallengeRenewal.deps.json
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\bin\Debug\net7.0\ChallengeRenewal.runtimeconfig.json
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\bin\Debug\net7.0\ChallengeRenewal.dll
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\bin\Debug\net7.0\ChallengeRenewal.pdb
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.dll
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\refint\ChallengeRenewal.dll
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.pdb
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ChallengeRenewal.genruntimeconfig.cache
+C:\Users\Thomas\projects\CsharpProjects\ChallengeRenewal\obj\Debug\net7.0\ref\ChallengeRenewal.dll
